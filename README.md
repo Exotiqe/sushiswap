@@ -1,10 +1,10 @@
 # SushiSwap
 
-https://sushi.com/
+https://dexmatic.finance/
 
 ## Deployed Contracts
 
-https://dev.sushi.com/sushiswap/contracts
+https://dev.dexmatic.finance/sushiswap/contracts
 
 ## Docs
 
